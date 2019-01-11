@@ -40,7 +40,7 @@ AdditionalFieldModel.
             
 
 ### Step 5:  
--Now fall for the payment
+-Now call for the payment
 
 
 ``` java
@@ -116,6 +116,7 @@ PayUsingSSLCommerz.getInstance().setData(MainActivity.this, mandatoryFieldModel,
 | Int    | CANCEL_TRANSACTION_ERROR     | User cancel transaction.   |
 | Int   | SERVER_ERROR    | Server is not responding.  |
 | Int    | NETWORK_ERROR     | Network not working.     | 
+
 
 
 
